@@ -1,9 +1,10 @@
-[![MasterHead](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 <h1 align="center">Hi 👋, I'm Adem</h1>
 
 <h3 align="center">A passionate fullstack developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adembekci&label=Profile%20views&color=0e75b6&style=flat" alt="adembekci" /> </p>
+
+<img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 - 🌱 I’m currently learning **HTML,CSS,JavaScript,Python,Bootstrap,Sass,Node.js,MongoDB**
 
