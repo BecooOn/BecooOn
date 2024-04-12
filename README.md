@@ -11,7 +11,7 @@
 #### 📬 Connect with me:
 
 [![medium](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@becooOn)
-[![Stackoverflow](https://img.shields.io/stackexchange/stackoverflow/t/:query)](https://stackoverflow.com/users/23137995/becooon)
+[![Stackoverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/23137995/becooon)
 
 
 </br>
