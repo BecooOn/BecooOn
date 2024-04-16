@@ -1,8 +1,7 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="400"></br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=16&duration=4000&pause=10&color=F7F7F7&width=400&lines=Hi+There%2C;I'm+Selim+HASPOLAT)](https://git.io/typing-svg)
-
 ## 👋 Hi there, I'm Adem
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="400"></br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=16&duration=4000&pause=10&color=F7F7F7&width=400&lines=Hi+There%2C;I'm+Selim+HASPOLAT)](https://git.io/typing-svg)
+</br>
 <font color="white"> 💻 I'm Full Stack Developer. </font>
 </br>
 <font color="white">🎆 Exploring routes to new visions and be a part of the new visions. </font>
