@@ -11,11 +11,12 @@
 </br>
 <font color="white">🚲 Cycling is how I keep up with code</font>
 </br>
+</br>
 ![](https://komarev.com/ghpvc/?username=BecooOn&color=blue&style=for-the-badge)
 </br>
 
 #### 📬 Connect with me:
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/adem-bekci/)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adem-bekci/)
 [![medium](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@becooOn)
 [![Stackoverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/23137995/becooon)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
