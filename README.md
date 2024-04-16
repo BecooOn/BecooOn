@@ -9,7 +9,7 @@
 </br>
 
 #### 📬 Connect with me:
-[![Linkedin] (https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]
+[![Linkedin:VPA] (https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]
 (https://www.linkedin.com/in/adem-bekci/)
 [![medium](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@becooOn)
 [![Stackoverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/23137995/becooon)
