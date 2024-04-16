@@ -9,9 +9,11 @@
 </br>
 
 #### 📬 Connect with me:
-
+[![Linkedin] (https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]
+(https://www.linkedin.com/in/adem-bekci/)
 [![medium](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@becooOn)
 [![Stackoverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/23137995/becooon)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
 
 
 </br>
@@ -114,7 +116,7 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 [Router-App](https://route-in-local.netlify.app/) <h3>[Repo](https://github.com/BecooOn/Router-App)</h3> | ReactJs,Mock Api, Bootstrap |![Router-App](https://raw.githubusercontent.com/BecooOn/Router-App/main/src/assets/router.gif)
 [M1-Shopping](https://becooon.github.io/JavaScript/Projects/06-M1-Shopping) <h3>[Repo](https://github.com/BecooOn/JavaScript/tree/main/Projects/06-M1-Shopping)</h3> | Vanilla JS |![M1-Shopping](https://github.com/BecooOn/JavaScript/blob/main/Projects/06-M1-Shopping/assets/shopping.gif)
 [Wallet-App](https://becooon.github.io/JavaScript/Projects/02-Wallet-App) <h3>[Repo](https://github.com/BecooOn/JavaScript/tree/main/Projects/02-Wallet-App)</h3> | Vanilla JS  |![Wallet-App](https://github.com/BecooOn/JavaScript/blob/main/Projects/02-Wallet-App/img/walletapp.gif)
-[Appoinment-App](https://becooon.github.io/react/projects/004-Appointment-App/) <h3>[Repo](https://github.com/BecooOn/Appointment-App)</h3> | ReactJs, Mock Api,Local Storage |![Appoinment-App](https://raw.githubusercontent.com/BecooOn/Appoinment-App/src/assets/appointment.gif)
+[Appoinment-App](https://becooon.github.io/react/projects/004-Appointment-App/) <h3>[Repo](https://github.com/BecooOn/Appointment-App)</h3> | ReactJs, Mock Api,Local Storage |![Appoinment-App](https://raw.githubusercontent.com/BecooOn/Appoinment-App/main/src/assets/appointment.gif)
 [Product-List](https://becooon.github.io/react/projects/002-Product-List/) <h3>[Repo](https://github.com/BecooOn/react/tree/main/projects/002-Product-List)</h3> | ReactJs, Mock Api,Local Storage |![Product-List]()
 [ToDo-App](https://becooon.github.io/react/coding-challenges/CC-01-ToDo-App/) <h3>[Repo](https://github.com/BecooOn/ToDo-App)</h3> | ReactJs, Bootstrap,Local Storage |![check-out]()
 
