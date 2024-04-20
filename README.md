@@ -1,6 +1,10 @@
-## 👋 Hi there, I'm Adem
+![](https://komarev.com/ghpvc/?username=BecooOn&color=blue&style=for-the-badge)
+<hr/>
+<div align=center>
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=color=A89568&center=true&vCenter=true&width=500&lines=Hola🖐+I'm+Adem;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;Cycling Lover;Nature Lover;" alt="Typing SVG" /></a>
+</div>
+<hr/>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="400"></br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=16&duration=4000&pause=10&color=F7F7F7&width=400&lines=Hi+There%2C;I'm+Selim+HASPOLAT)](https://git.io/typing-svg)
 </br>
 <font color="white"> 💻 I'm Full Stack Developer. </font>
 </br>
@@ -11,16 +15,12 @@
 <font color="white">🚲 Cycling is how I keep up with code</font>
 </br>
 </br>
-![](https://komarev.com/ghpvc/?username=BecooOn&color=blue&style=for-the-badge)
-</br>
 
 #### 📬 Connect with me:
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adem-bekci/)
 [![medium](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@becooOn)
 [![Stackoverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/23137995/becooon)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
-
-
 </br>
 </br>
 </br>
