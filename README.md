@@ -27,16 +27,16 @@
 
 <h2 align="center">🚀Technical Skills</h2>
 <div align="center">
-<img width="40px" alt="js" title="python" src="https://skillicons.dev/icons?i=js" />
-<img width="40px" alt="ts" title="python" src="https://skillicons.dev/icons?i=ts" />
-<img width="40px" alt="python" title="js" src="https://skillicons.dev/icons?i=py&theme=light" />
+<img width="40px" alt="js" title="js" src="https://skillicons.dev/icons?i=js" />
+<img width="40px" alt="ts" title="ts" src="https://skillicons.dev/icons?i=ts" />
+<img width="40px" alt="python" title="python" src="https://skillicons.dev/icons?i=py&theme=light" />
 <img width="40px" alt="nodejs" title="nodejs" src="https://skillicons.dev/icons?i=nodejs" />
 <img width="40px" alt="nestjs" title="nestjs" src="https://skillicons.dev/icons?i=nestjs" />
 <img width="40px" alt="expressjs" title="expressjs" src="https://skillicons.dev/icons?i=express" />
 <img width="40px" alt="django" title="django" src="https://skillicons.dev/icons?i=django" />
 <img width="40px" alt="firebase" title="firebase" src="https://skillicons.dev/icons?i=firebase" />
-<img width="40px" alt="react  title="react native" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img width="40px" alt="react" title="react" src="https://skillicons.dev/icons?i=react" />
+<img width="40px" alt="react  title="react native" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img width="40px" alt="sass" title="sass" src="https://skillicons.dev/icons?i=sass" />
 <img width="40px" alt="html5" title="html5" src="https://skillicons.dev/icons?i=html" />
 <img width="40px" alt="css3" title="css3" src="https://skillicons.dev/icons?i=css" />
@@ -49,10 +49,10 @@
 <img width="40px" alt="mysql" title="mysql" src="https://skillicons.dev/icons?i=mysql" />
 <img width="40px" alt="postgresql" title="postgresql" src="https://skillicons.dev/icons?i=postgres" />
 <img width="40px" alt="mongodb" title="mongodb" src="https://skillicons.dev/icons?i=mongodb" />
-<img width="40px" alt="redux" title="redux" src="https://skillicons.dev/icons?i=git" />
+<img width="40px" alt="git" title="git" src="https://skillicons.dev/icons?i=git" />
 <img width="40px" alt="bash" title="bash" src="https://skillicons.dev/icons?i=bash" />
 <img width="40px" alt="linux" title="linux" src="https://skillicons.dev/icons?i=linux" />
-<img width="40px" alt="redux" title="redux" src="https://skillicons.dev/icons?i=vscode" />
+<img width="40px" alt="vscode" title="vscode" src="https://skillicons.dev/icons?i=vscode" />
 <img width="40px" alt="postman" title="postman" src="https://skillicons.dev/icons?i=postman" />
 <img width="40px" alt="jupyter" title="jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
 <img width="40px" alt="photoshop" title="photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
