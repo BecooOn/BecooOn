@@ -27,88 +27,35 @@
 
 <h2 align="center">🚀Technical Skills</h2>
 <div align="center">
-<img
-        src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-        alt="Reactjs"
-        />
-<img
-        src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"
-        alt="Nextjs"
-        />
-<img
-        src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"
-        alt="Redux"
-        />      
-<img
-        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
-        alt="JavaScript"
-        />
-<img
-        src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
-        alt="TypeScript"
-        />
-</br>
-<img
-        src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-        alt="HTML5"
-        />
-<img
-        src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-        alt="CSS3"
-        />
-<img
-        src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
-        alt="tailwindcss"
-        />
-<img 
-              src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"
-        />
-<img
-        src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
-        alt="Bootstrap"
-        />
-<img
-        src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
-        alt="Sass"
-        />
-</br>
-<img 
-     src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
-     alt="VSCode"
-        />
-</br>
-<img
-        src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
-        alt="Python"
-        />
-<img
-        src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
-        alt="Django"
-        />
-      <img
-        src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
-        alt="PostgreSQL"
-        />
-<img
-        src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
-        alt="Nodejs"
-        />
-<img
-        src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"
-        />
-<img 
-        src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-        />
-</br>
-<img 
-      src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
-      alt="GIT"
-        />
-<img 
-      src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"
-      alt="JIRA"
-        />
-
+<img width="40px" alt="js" title="python" src="https://skillicons.dev/icons?i=js" />
+<img width="40px" alt="ts" title="python" src="https://skillicons.dev/icons?i=ts" />
+<img width="40px" alt="python" title="js" src="https://skillicons.dev/icons?i=py&theme=light" />
+<img width="40px" alt="nodejs" title="nodejs" src="https://skillicons.dev/icons?i=nodejs" />
+<img width="40px" alt="nestjs" title="nestjs" src="https://skillicons.dev/icons?i=nestjs" />
+<img width="40px" alt="expressjs" title="expressjs" src="https://skillicons.dev/icons?i=express" />
+<img width="40px" alt="django" title="django" src="https://skillicons.dev/icons?i=django" />
+<img width="40px" alt="firebase" title="firebase" src="https://skillicons.dev/icons?i=firebase" />
+<img width="40px" alt="react  title="react native" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img width="40px" alt="react" title="react" src="https://skillicons.dev/icons?i=react" />
+<img width="40px" alt="sass" title="sass" src="https://skillicons.dev/icons?i=sass" />
+<img width="40px" alt="html5" title="html5" src="https://skillicons.dev/icons?i=html" />
+<img width="40px" alt="css3" title="css3" src="https://skillicons.dev/icons?i=css" />
+<img width="40px" alt="bootstrap" title="bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />
+<br/>
+<img width="40px" alt="tailwind" title="tailwind" src="https://skillicons.dev/icons?i=tailwind" />
+<img width="40px" alt="redux" title="redux" src="https://skillicons.dev/icons?i=redux" />
+<img width="40px" alt="vite" title="vite" src="https://skillicons.dev/icons?i=vite" />
+<img width="40px" alt="vite" title="nextjs" src="https://skillicons.dev/icons?i=nextjs" />
+<img width="40px" alt="mysql" title="mysql" src="https://skillicons.dev/icons?i=mysql" />
+<img width="40px" alt="postgresql" title="postgresql" src="https://skillicons.dev/icons?i=postgres" />
+<img width="40px" alt="mongodb" title="mongodb" src="https://skillicons.dev/icons?i=mongodb" />
+<img width="40px" alt="redux" title="redux" src="https://skillicons.dev/icons?i=git" />
+<img width="40px" alt="bash" title="bash" src="https://skillicons.dev/icons?i=bash" />
+<img width="40px" alt="linux" title="linux" src="https://skillicons.dev/icons?i=linux" />
+<img width="40px" alt="redux" title="redux" src="https://skillicons.dev/icons?i=vscode" />
+<img width="40px" alt="postman" title="postman" src="https://skillicons.dev/icons?i=postman" />
+<img width="40px" alt="jupyter" title="jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+<img width="40px" alt="photoshop" title="photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 </div>
 </br>
 <!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
@@ -118,7 +65,7 @@
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[Router-App](https://route-in-local.netlify.app/) <h3>[Repo](https://github.com/BecooOn/Router-App)</h3> | ReactJs,Mock Api, Bootstrap |![Router-App](https://raw.githubusercontent.com/BecooOn/Router-App/main/src/assets/router.gif)
+[Router-App](https://route-in-local.netlify.app/) <h3>[Repo](https://github.com/BecooOn/Router-App)</h3> | ReactJs,Mock Api, Bootstrap|![Router-App](https://raw.githubusercontent.com/BecooOn/Router-App/main/src/assets/router.gif)
 [M1-Shopping](https://becooon.github.io/JavaScript/Projects/06-M1-Shopping) <h3>[Repo](https://github.com/BecooOn/JavaScript/tree/main/Projects/06-M1-Shopping)</h3> | Vanilla JS |![M1-Shopping](https://github.com/BecooOn/JavaScript/blob/main/Projects/06-M1-Shopping/assets/shopping.gif)
 [Civilizations](https://civilizations-with-react-router.netlify.app/) <h3>[Repo](https://github.com/BecooOn/Civilization-with-React-router)</h3> | ReactJs, React Router,Mock Api, Bootstrap |![Civilizations](https://github.com/BecooOn/Civilization-with-React-router/blob/main/src/assets/civilizations.gif)
 [Product-List](https://becooon.github.io/react/projects/002-Product-List/) <h3>[Repo](https://github.com/BecooOn/Product-List)</h3> | ReactJs, Mock Api,Local Storage |![Product-List](https://github.com/BecooOn/Product-List/blob/main/src/assets/product.gif)
