@@ -30,6 +30,7 @@
 <img width="40px" alt="js" title="js" src="https://skillicons.dev/icons?i=js" />
 <img width="40px" alt="ts" title="ts" src="https://skillicons.dev/icons?i=ts" />
 <img width="40px" alt="python" title="python" src="https://skillicons.dev/icons?i=py&theme=light" />
+<img width="40px" alt="java" title="java" src="https://skillicons.dev/icons?i=java" />
 <img width="40px" alt="nodejs" title="nodejs" src="https://skillicons.dev/icons?i=nodejs" />
 <img width="40px" alt="nestjs" title="nestjs" src="https://skillicons.dev/icons?i=nestjs" />
 <img width="40px" alt="expressjs" title="expressjs" src="https://skillicons.dev/icons?i=express" />
