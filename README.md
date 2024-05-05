@@ -66,6 +66,7 @@
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
+[Shopping-App](https://shopping-becoo.netlify.app/) <h3>[Repo](https://github.com/BecooOn/Shopping)</h3> | ReactJs, MUİ, axios, Redux|![Store-App](https://github.com/BecooOn/Shopping/blob/main/src/assets/shopping.gif)
 [Store-App](https://store-app-becooon.netlify.app/) <h3>[Repo](https://github.com/BecooOn/Store-App)</h3> | ReactJs, dummyJson API, tailwindcss, axios|![Store-App](https://github.com/BecooOn/Store-App/blob/main/src/assets/Store-app.gif)
 [Civilizations](https://civilizations-with-react-router.netlify.app/) <h3>[Repo](https://github.com/BecooOn/Civilization-with-React-router)</h3> | ReactJs, React Router,Mock Api, Bootstrap |![Civilizations](https://github.com/BecooOn/Civilization-with-React-router/blob/main/src/assets/civilizations.gif)
 [Router-App](https://route-in-local.netlify.app/) <h3>[Repo](https://github.com/BecooOn/Router-App)</h3> | ReactJs,Mock Api, Bootstrap|![Router-App](https://raw.githubusercontent.com/BecooOn/Router-App/main/src/assets/router.gif)
