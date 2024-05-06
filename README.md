@@ -64,16 +64,19 @@
 
 ###
 
+###
+
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[Shopping-App](https://shopping-becoo.netlify.app/) <h3>[Repo](https://github.com/BecooOn/Shopping)</h3> | ReactJs, MUİ, axios, Redux|![Store-App](https://github.com/BecooOn/Shopping/blob/main/src/assets/shopping.gif)
-[Store-App](https://store-app-becooon.netlify.app/) <h3>[Repo](https://github.com/BecooOn/Store-App)</h3> | ReactJs, dummyJson API, tailwindcss, axios|![Store-App](https://github.com/BecooOn/Store-App/blob/main/src/assets/Store-app.gif)
-[Civilizations](https://civilizations-with-react-router.netlify.app/) <h3>[Repo](https://github.com/BecooOn/Civilization-with-React-router)</h3> | ReactJs, React Router,Mock Api, Bootstrap |![Civilizations](https://github.com/BecooOn/Civilization-with-React-router/blob/main/src/assets/civilizations.gif)
-[Router-App](https://route-in-local.netlify.app/) <h3>[Repo](https://github.com/BecooOn/Router-App)</h3> | ReactJs,Mock Api, Bootstrap|![Router-App](https://raw.githubusercontent.com/BecooOn/Router-App/main/src/assets/router.gif)
-[M1-Shopping](https://becooon.github.io/JavaScript/Projects/06-M1-Shopping) <h3>[Repo](https://github.com/BecooOn/JavaScript/tree/main/Projects/06-M1-Shopping)</h3> | Vanilla JS, vitejs |![M1-Shopping](https://github.com/BecooOn/JavaScript/blob/main/Projects/06-M1-Shopping/assets/shopping.gif)
-[ToDo-App](https://becooon.github.io/react/coding-challenges/CC-01-ToDo-App/) <h3>[Repo](https://github.com/BecooOn/ToDo-App)</h3> | ReactJs, Bootstrap,Local Storage |![check-out](https://github.com/BecooOn/ToDo-App/blob/main/src/assets/todo.gif)
-[Wallet-App](https://becooon.github.io/JavaScript/Projects/02-Wallet-App) <h3>[Repo](https://github.com/BecooOn/JavaScript/tree/main/Projects/02-Wallet-App)</h3> | Vanilla JS  |![Wallet-App](https://github.com/BecooOn/JavaScript/blob/main/Projects/02-Wallet-App/img/walletapp.gif)
-[Appoinment-App](https://becooon.github.io/react/projects/004-Appointment-App/) <h3>[Repo](https://github.com/BecooOn/Appointment-App)</h3> | ReactJs, Mock Api,Local Storage |![Appoinment-App](https://github.com/BecooOn/Appointment-App/blob/main/src/assets/appointment.gif)
+[Shopping-App](https://shopping-becoo.netlify.app/) <h3>[Repo](https://github.com/BecooOn/Shopping)</h3> | ReactJs, MUİ, axios, Redux|<img src="https://github.com/BecooOn/Shopping/blob/main/src/assets/shopping.gif" width="320" height="240">
+[Store-App](https://store-app-becooon.netlify.app/) <h3>[Repo](https://github.com/BecooOn/Store-App)</h3> | ReactJs, dummyJson API, tailwindcss, axios|<img src="https://github.com/BecooOn/Store-App/blob/main/src/assets/Store-app.gif" width="320" height="240">
+[Civilizations](https://civilizations-with-react-router.netlify.app/) <h3>[Repo](https://github.com/BecooOn/Civilization-with-React-router)</h3> | ReactJs, React Router,Mock Api, Bootstrap |<img src="https://github.com/BecooOn/Civilization-with-React-router/blob/main/src/assets/civilizations.gif" width="320" height="240">
+[Router-App](https://route-in-local.netlify.app/) <h3>[Repo](https://github.com/BecooOn/Router-App)</h3> | ReactJs,Mock Api, Bootstrap|<img src="https://raw.githubusercontent.com/BecooOn/Router-App/main/src/assets/router.gif" width="320" height="240">
+[M1-Shopping](https://becooon.github.io/JavaScript/Projects/06-M1-Shopping) <h3>[Repo](https://github.com/BecooOn/JavaScript/tree/main/Projects/06-M1-Shopping)</h3> | Vanilla JS, vitejs |<img src="https://github.com/BecooOn/JavaScript/blob/main/Projects/06-M1-Shopping/assets/shopping.gif" width="320" height="240">
+[ToDo-App](https://becooon.github.io/react/coding-challenges/CC-01-ToDo-App/) <h3>[Repo](https://github.com/BecooOn/ToDo-App)</h3> | ReactJs, Bootstrap,Local Storage |<img src="https://github.com/BecooOn/ToDo-App/blob/main/src/assets/todo.gif" width="320" height="240">
+[Wallet-App](https://becooon.github.io/JavaScript/Projects/02-Wallet-App) <h3>[Repo](https://github.com/BecooOn/JavaScript/tree/main/Projects/02-Wallet-App)</h3> | Vanilla JS  |<img src="https://github.com/BecooOn/JavaScript/blob/main/Projects/02-Wallet-App/img/walletapp.gif" width="320" height="240">
+[Appoinment-App](https://becooon.github.io/react/projects/004-Appointment-App/) <h3>[Repo](https://github.com/BecooOn/Appointment-App)</h3> | ReactJs, Mock Api,Local Storage |<img src="https://github.com/BecooOn/Appointment-App/blob/main/src/assets/appointment.gif" width="320" height="240">
+
 
 
 
