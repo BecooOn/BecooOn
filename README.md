@@ -68,7 +68,8 @@
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[Stock-App](https://stock-app-becoo.netlify.app/) <h3>[Repo](https://github.com/BecooOn/stock-app)</h3> | ReactJs, MUİ, MUI X Data Grid, MUI X Charts, Formik, Yup, axios, Redux, React Toastify, Tailwindcss, Tremor |<img src="https://github.com/BecooOn/stock-app/blob/main/src/assets/stock-app.gif" width="320" height="200">
+[Blog-App](https://blog-app-milestone.netlify.app/) <h3>[Repo](https://github.com/BecooOn/Blog-App-Milestone)</h3> | ReactJs, MUI, Redux, Redux Toolkit, Helmet, Formik, Yup, axios, Redux, React Toastify, Sweetalert2 |<img src="https://github.com/BecooOn/Blog-App-Milestone/blob/main/src/assets/blog-app.gif" width="320" height="200">
+[Stock-App](https://stock-app-becoo.netlify.app/) <h3>[Repo](https://github.com/BecooOn/stock-app)</h3> | ReactJs, MUI, MUI X Data Grid, MUI X Charts, Formik, Yup, axios, Redux, React Toastify, Tailwindcss, Tremor |<img src="https://github.com/BecooOn/stock-app/blob/main/src/assets/stock-app.gif" width="320" height="200">
 [Movie-App](https://movie-app-netlify.netlify.app/) <h3>[Repo](https://github.com/BecooOn/Movie-App)</h3> | ReactJs, Firebase, axios, React Toastify, Tailwindcss|<img src="https://github.com/BecooOn/Movie-App/blob/main/src/assets/movie-app.gif" width="320" height="200">
 [Shopping-App](https://shopping-becoo.netlify.app/) <h3>[Repo](https://github.com/BecooOn/Shopping)</h3> | ReactJs, MUİ, axios, Redux|<img src="https://github.com/BecooOn/Shopping/blob/main/src/assets/shopping.gif" width="320" height="240">
 [Store-App](https://store-app-becooon.netlify.app/) <h3>[Repo](https://github.com/BecooOn/Store-App)</h3> | ReactJs, dummyJson API, tailwindcss, axios|<img src="https://github.com/BecooOn/Store-App/blob/main/src/assets/Store-app.gif" width="320" height="240">
