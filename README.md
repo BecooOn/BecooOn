@@ -4,7 +4,7 @@
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=color=A89568&center=true&vCenter=true&width=500&lines=Hola🖐+I'm+Adem;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;Cycling+Lover;Nature+Lover;" alt="Typing SVG" /></a>
 </div>
 <hr/>
-<img src="https://uploads-ssl.webflow.com/609d5f9b506b14178580a64f/60db87a7ede1557548ba3f37_neo-soft-progettazione-realizzazione-software.gif" align="right" width="400"></br>
+<img src="https://uploads-ssl.webflow.com/609d5f9b506b14178580a64f/60db87a7ede1557548ba3f37_neo-soft-progettazione-realizzazione-software.gif" align="right" width="300" height="300"></br>
 </br>
 <font color="white"> 💻 I'm Full Stack Developer. </font>
 </br>
