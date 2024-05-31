@@ -55,6 +55,7 @@
 <img width="40px" alt="linux" title="linux" src="https://skillicons.dev/icons?i=linux" />
 <img width="40px" alt="vscode" title="vscode" src="https://skillicons.dev/icons?i=vscode" />
 <img width="40px" alt="postman" title="postman" src="https://skillicons.dev/icons?i=postman" />
+<img width="40px" alt="postman" title="cypress" src="https://skillicons.dev/icons?i=cypress" />
 <img width="40px" alt="jupyter" title="jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
 <img width="40px" alt="photoshop" title="photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 </div>
