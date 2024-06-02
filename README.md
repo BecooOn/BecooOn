@@ -81,25 +81,13 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 [Wallet-App](https://becooon.github.io/JavaScript/Projects/02-Wallet-App) <h3>[Repo](https://github.com/BecooOn/JavaScript/tree/main/Projects/02-Wallet-App)</h3> | Vanilla JS  |<img src="https://github.com/BecooOn/JavaScript/blob/main/Projects/02-Wallet-App/img/walletapp.gif" width="200" height="120">
 [Appoinment-App](https://becooon.github.io/react/projects/004-Appointment-App/) <h3>[Repo](https://github.com/BecooOn/Appointment-App)</h3> | ReactJs, Mock Api,Local Storage |<img src="https://github.com/BecooOn/Appointment-App/blob/main/src/assets/appointment.gif" width="200" height="120">
 
-
-
-
-
 <br>
 
 <h2 align="center">💡Most Used Language</h2>
-<div  align="center">
-<br/>
-<img
-     src="https://github-readme-stats.vercel.app/api?username=BecooOn&theme=blue-green"
-     alt=""
-     /> </br></br></br>
-<img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=BecooOn&theme=blue-green"
-     alt=""
-     /> <br/>
+<div  align="center"><br/>
+     <img src="https://github-readme-stats.vercel.app/api?username=BecooOn&theme=blue-green" alt="" width="40%" height="250px"/>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=BecooOn&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" width="40%" height="250px"><br/>
 </div>
-
-<p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=BecooOn&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
-</p>
+<div align="center">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BecooOn&theme=blue-green" alt=""/>
+</div>
